@@ -1,4 +1,4 @@
-# FIGMA-e-commerce-website-flight-booking-
+codealpha_tasks
 An e-commerce website design (flight bookings) 
 
 
